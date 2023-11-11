@@ -1,0 +1,41 @@
+import turtle
+t = turtle.Turtle()
+t.speed(0)
+for i in range(1):
+  t.circle(45)
+  t.right(90)
+  t.forward(90)
+  t.left(45)
+  t.forward(100)
+  t.right(90)
+  t.forward(100)
+  t.backward(100)
+  
+  t.left(90)
+  t.backward(100)
+  t.right(50)
+  
+  t.forward(80)
+  
+  t.right(50)
+  t.forward(80)
+  t.backward(80)
+  t.right(130)
+  t.forward(80)
+  
+  t.right(175) 
+  t.backward(50)
+  t.left(70)
+  t.forward(60)  
+  t.left(70) 
+  t.forward(50)
+  t.circle(10)
+  t.backward(50)
+  t.right(70)
+  t.backward(60)
+  
+  t.right(30)
+  t.forward(70)
+  t.left(70)
+  t.forward(60)
+  

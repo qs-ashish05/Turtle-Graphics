@@ -1,0 +1,122 @@
+1 What does the turtle.forward() function do?
+
+a) Moves the turtle backward
+b) Turns the turtle to the right
+c) Moves the turtle forward by a specified distance
+d) Lifts the pen off the drawing surface
+Answer: c) Moves the turtle forward by a specified distance
+
+2 Which function is used to lift the pen off the drawing surface in Turtle graphics?
+
+a) turtle.penup()
+b) turtle.pendown()
+c) turtle.lift()
+d) turtle.lower()
+Answer: a) turtle.penup()
+
+3 What function is used to turn the turtle to the right by a specified angle?
+
+a) turtle.right()
+b) turtle.left()
+c) turtle.turn_right()
+d) turtle.turn_left()
+Answer: a) turtle.right()
+
+4 Which method is used to draw a circle with a specified radius?
+
+a) turtle.circle()
+b) turtle.draw_circle()
+c) turtle.draw()
+d) turtle.radius()
+Answer: a) turtle.circle()
+
+5 What is the purpose of turtle.speed() function in Turtle graphics?
+
+a) Sets the speed of the turtle's movements
+b) Sets the color of the turtle
+c) Sets the shape of the turtle
+d) Sets the background color
+Answer: a) Sets the speed of the turtle's movements
+
+6 Which function is used to set the fill color for a shape to be drawn?
+
+a) turtle.fillcolor()
+b) turtle.color()
+c) turtle.set_fill()
+d) turtle.set_color()
+Answer: a) turtle.fillcolor()
+
+7 What function is used to clear the drawing surface and reset the turtle?
+
+a) turtle.clear()
+b) turtle.reset()
+c) turtle.erase()
+d) turtle.clear_screen()
+Answer: b) turtle.reset()
+
+8 Which method is used to close the turtle graphics window?
+
+a) turtle.close()
+b) turtle.exit()
+c) turtle.done()
+d) turtle.quit()
+Answer: c) turtle.done()
+
+9 What does the turtle.hideturtle() function do?
+
+a) Shows the turtle icon
+b) Hides the turtle icon
+c) Makes the turtle transparent
+d) Changes the turtle's color
+Answer: b) Hides the turtle icon
+
+10. What is the output of following code:
+	import turtle
+
+	pen = turtle.Turtle()
+	pen.speed(2)
+	pen.circle(50)
+	turtle.done()
+	
+a) Draws a slow circle
+b) Draws a fast circle
+c) Sets the turtle's shape to a circle
+d) Moves the turtle 50 units forward
+Answer: a) Draws a slow circle
+
+11. what following code do?
+
+	import turtle
+
+	pen = turtle.Turtle()
+	pen.color("blue")
+	pen.forward(100)
+	turtle.done()
+	
+a) Draws a red line
+b) Draws a blue line
+c) Draws a green line
+d) Draws a black line
+Answer: b) Draws a blue line
+
+
+
+12. what following code do?
+
+	import turtle
+
+	pen = turtle.Turtle()
+	pen.color("red")
+	pen.goto(50, 50)
+	turtle.done()
+	
+a) Moves the turtle to (50, 50) without drawing
+b) Draws a red line from the current position to (50, 50)
+c) Sets the color of the turtle to red
+d) Draws a blue line from the current position to (50, 50)
+
+Ans: b) Draws a red line from the current position to (50, 50)
+
+	
+	
+
